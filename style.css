@@ -143,3 +143,10 @@ footer{
     gap: 70px;
     padding: 20px;
 }
+.images{
+    transition: transform .2s;
+}
+
+.images:hover{
+transform: scale(1.1);
+}
