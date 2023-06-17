@@ -1,0 +1,145 @@
+.container1{
+    background-color: rgb(234, 244, 252);
+    width: 100%;
+    height: 450px;
+    display: flex;
+    justify-content: space-around;
+}
+#name{
+    color: rgb(109, 202, 187);
+    font-size: 3rem;
+    font-family: cursive;
+    position: relative;
+    top: 5px;
+    left: 320px;  
+}
+#title{
+    color: rgb(29, 206, 206);
+    font-size: 1.8rem;
+    position: relative;
+    top: 110px;
+    left: 20px;
+}
+
+.mountain{
+    height: 250px;
+    width: 400px;
+    position: relative;
+    right: 35%;
+    top: 200px;
+}
+.cloud1{
+    height: 30px;
+    position: relative;
+    top: 200px;
+    left: 150px;
+}
+.cloud2{
+    height: 30px;
+    position: relative;
+    top: 30px;
+    left: 250px;
+}
+.container2{
+    padding-top: 100px;
+    padding-left: 300px;
+    padding-right:300px;
+}
+
+#myimage{
+    margin: auto;
+    width: 200px;
+    height: 200px;  
+    border-radius: 100%;
+}
+#hello{
+    color: rgb(46, 163, 163);
+    font-size: 2rem;
+    margin-top: 5px;
+}
+#myskill{
+    color: rgb(46, 163, 163);
+    font-size: 2rem; 
+}
+#computer{
+    width: 200px;
+    height: 200px;  
+}
+hr{
+    background-color: rgb(49, 47, 47);
+    height: 7px;
+}
+#title2{
+    color: rgb(46, 163, 163);  
+}
+#level{
+    color: rgb(46, 163, 163);   
+}
+#semicontainer{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.textcontainer{
+    display: flex;
+    gap: 20px;
+}
+
+
+.dots{
+    text-align: center;
+}
+.container3{
+    background-color: rgb(205, 206, 207);
+    padding: 100px;
+}
+.text1{
+    text-align: center;
+}
+h2{
+    border-bottom: 5px solid rgb(125, 125, 221);
+    width: 360px;
+font-size: 2.5rem;
+margin: 0 auto;
+}
+.gencar{
+    display: flex;
+}
+.dots2{
+    text-align: center;
+}
+.images{
+    width: 300px;
+    height: 300px;
+    margin-left: 10px;
+}
+.container4{
+    /* padding-top: 50px;
+    padding-left: 600px;
+    padding-right: 500px; */
+    text-align: center;
+}
+#git{
+    color: rgb(46, 163, 163);
+    font-size: 2rem; 
+}
+#lovecode{
+    color: rgb(70, 172, 155);
+}
+button{
+    border: 5px;
+    background-color:  rgb(146, 245, 245) ;
+    color: white;
+    border-radius: 5px;
+    outline:none ;
+    margin-left: 400px;
+    font-size: 1.4rem;
+    
+}
+footer{
+    background-color: rgb(70, 172, 155); 
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+    padding: 20px;
+}
